@@ -18,7 +18,7 @@ Welcome to the **Snake Game**! This is a console-based snake game built using **
 ### Steps
 1. Clone the repository from GitHub:
    ```sh
-   git clone https://github.com/Siddhcreator-1706/Snake_Game.git
+   git clone https://github.com/HARSHILTEJOT/Snake-Game-
    ```
  
 2. Change directory
@@ -110,10 +110,7 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 ### Contributors
-- [Siddhcreator-1706](https://github.com/Siddhcreator-1706)
-- [Tanish-30-08-2006](https://github.com/Tanish-30-08-2006)
-- [Keval-tech](https://github.com/Keval-tech)
-- [khushis02](https://github.com/khushis02)
+-HARSHILTEJOT-(https://github.com/HARSHILTEJOT)
 
 ## 📜 License
 This project is licensed under the **MIT License**.
